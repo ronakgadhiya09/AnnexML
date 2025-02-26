@@ -16,8 +16,8 @@
     "seed" : 0,
     "verbose" : 1,
 
-    "train_file" : "data/Wiki10/wiki10_train.txt",
-    "predict_file" : "data/Wiki10/wiki10_test.txt",
+    "train_file" : "annexml_data/train_annexml.txt",
+    "predict_file" : "annexml_data/test_annexml.txt",
     "model_file" : "annexml-model-example.bin",
     "result_file" : "annexml-result-example.txt"
 }
